@@ -26,6 +26,15 @@
  В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ## Ответ
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-1.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-2.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-3.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-4.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-5.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-6.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-7.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-8.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/1-9.png)
 
 ## Задание 2
 
@@ -37,6 +46,11 @@
  В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ## Ответ
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2-1.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2-2.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2-3.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2-4.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/2--5.png)
 
 ## Задание 3
 
@@ -50,3 +64,7 @@
  В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ## Ответ
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/3-1.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/3-2.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/3-3.png)
+![alt text](https://github.com/IvanOzhigov/8-01-hw/blob/assets/3-4.png)
